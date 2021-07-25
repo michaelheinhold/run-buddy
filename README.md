@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 ##purpose
 A website that offers fitness training services.
 
@@ -12,4 +12,4 @@ https://michaelheinhold.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Michael Heinhold
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
