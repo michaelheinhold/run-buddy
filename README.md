@@ -11,3 +11,5 @@ https://michaelheinhold.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Michael Heinhold
+
+# Run Buddy Inc.
