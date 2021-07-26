@@ -30,10 +30,6 @@ header h1 {
 }
 
 /*header link styles*/
-header a {
-    color: #fce138;
-}
-
 header a { 
     text-decoration: none;
     color: #fce138;
@@ -43,14 +39,18 @@ header nav {
     margin: 7px o;
 }
 
-header nav ul li {
-    display: inline;
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
 }
 
 header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
-    font-size: 22px;
+    font-size: 1.55vw;
 }
 /*header style end*/
 
